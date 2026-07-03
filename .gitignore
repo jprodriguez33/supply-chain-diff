@@ -1,0 +1,6 @@
+# scratch output from the fetch script
+supply-chain-diff-work/
+
+# python
+__pycache__/
+*.pyc
