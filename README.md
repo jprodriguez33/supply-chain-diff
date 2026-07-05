@@ -54,7 +54,4 @@ designed to be safe for that:
 Even so, for anything you genuinely suspect is compromised, run the audit inside a
 disposable sandbox (container or VM) as defense in depth.
 
-## License
 
-See [LICENSE](LICENSE). (The included template is MIT — replace the placeholder
-year/name, or swap for whatever license you prefer.)
