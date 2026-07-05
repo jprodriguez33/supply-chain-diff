@@ -59,8 +59,7 @@ disposable sandbox (container or VM) as defense in depth.
 
 Validating that the tool stays quiet on a package known to be clean. A
 trustworthy result means the published artifact's source matches the tagged
-git source exactly — no divergence — establishing the low-false-positive
-baseline that makes a real detection meaningful.
+git source exactly.
 
 ### 1. Fetch the published artifacts
 
