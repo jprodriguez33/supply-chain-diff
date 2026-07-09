@@ -2,7 +2,7 @@
 
 A [Claude skill](https://docs.claude.com) that checks whether a published package
 (PyPI, npm) matches its corresponding tagged source on a public repository
-(GitHub, GitLab, Bitbucket, Codeberg) — to catch supply-chain tampering, where
+(GitHub, GitLab, Bitbucket, Codeberg) to catch supply-chain tampering, where
 malicious code is injected at publish time but never pushed to the visible git
 history.
 
